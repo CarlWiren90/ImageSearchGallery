@@ -1,7 +1,7 @@
 # ImageSearchGallery
-Code project at CodeMentor. A nice looking imagesearch component where the user can search for images by entering the search term and hitting enter / return key. This will display up to 10 images below the search box.
+Code project at CodeMentor. A nice looking imagesearch component where the user can search for images by entering the search term and clicking search. This will display up to 10 images below the search box.
 
-Motivation
+[Motivation
 This project came about as a way for me to practise coding.
 
 Build status
